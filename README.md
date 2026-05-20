@@ -56,12 +56,6 @@ An interactive and fun **Drum Kit Web Application** that allows users to play di
 
 ---
 
-## 📸 Preview
-
-![Drum Kit](https://via.placeholder.com/800x400?text=Drum+Kit+Project)
-
----
-
 ## 📌 Future Improvements
 
 - Add volume control  
@@ -69,8 +63,3 @@ An interactive and fun **Drum Kit Web Application** that allows users to play di
 - Mobile touch optimization  
 - More drum kits/themes  
 
----
-
-⭐ If you like this project, don’t forget to give it a star!
-
-## 📂 Project Structure
